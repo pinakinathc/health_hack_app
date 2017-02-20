@@ -1,4 +1,10 @@
 # health_hack_app
+
+Contributors:
+1. Pinaki Nath Chowdhury: pinakinathc@gmail.com
+2. Namrata Gupta Roy: namragroy@gmail.com
+3. Sumana Jana
+
 this andriod application to get huge pool of data helping to improve medical condition on large scale
 
 Future improvements:
