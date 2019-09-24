@@ -1,4 +1,6 @@
 # health_hack_app
+Click [this link](https://github.com/pinakinathc/health_hack_app/blob/master/GlobsynProject.pdf) to view the project report.
+
 
 Contributors:
 1. Pinaki Nath Chowdhury: pinakinathc@gmail.com
